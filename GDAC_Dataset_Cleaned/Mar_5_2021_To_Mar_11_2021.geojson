@@ -1,0 +1,1776 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "bbox": [
+                85.87540845200718,
+                22.856787081945416,
+                85.87540845200718,
+                22.856787081945416
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.87540845200718,
+                    22.856787081945416
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000128,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 25 Feb 2021 to: 11 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000128&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000128&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000128"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-25T00:00:00",
+                "todate": "2021-03-11T00:00:00",
+                "datemodified": "2021-04-23T07:53:51",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 9866,
+                    "severitytext": "Green impact for forestfire in 9866 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                82.38763318055246,
+                20.247173955335917,
+                82.38763318055246,
+                20.247173955335917
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.38763318055246,
+                    20.247173955335917
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000136,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 24 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000136&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000136&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000136"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-24T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:52",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 21008,
+                    "severitytext": "Green impact for forestfire in 21008 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                82.75055007046873,
+                20.166615046302795,
+                82.75055007046873,
+                20.166615046302795
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.75055007046873,
+                    20.166615046302795
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000142,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 23 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000142&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000142&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000142"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-23T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:53",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 7572,
+                    "severitytext": "Green impact for forestfire in 7572 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                85.06683260225303,
+                20.269118977729153,
+                85.06683260225303,
+                20.269118977729153
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.06683260225303,
+                    20.269118977729153
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000145,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 23 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000145&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000145&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000145"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-23T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:53",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 8178,
+                    "severitytext": "Green impact for forestfire in 8178 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                75.4700632660462,
+                21.31260057973661,
+                75.4700632660462,
+                21.31260057973661
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.4700632660462,
+                    21.31260057973661
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000154,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 20 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000154&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000154&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000154"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-20T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:54",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5330,
+                    "severitytext": "Green impact for forestfire in 5330 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                85.929085829406,
+                21.268938313524355,
+                85.929085829406,
+                21.268938313524355
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.929085829406,
+                    21.268938313524355
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000156,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 19 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000156&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000156&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000156"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-19T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:55",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 65662,
+                    "severitytext": "Green impact for forestfire in 65662 ha",
+                    "severityunit": " ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                85.4665975372224,
+                22.70821711617075,
+                85.4665975372224,
+                22.70821711617075
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.4665975372224,
+                    22.70821711617075
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000107,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 27 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000107&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000107&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000107"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-27T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:48",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 10690,
+                    "severitytext": "Green impact for forestfire in 10690 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                85.6707405545642,
+                22.587898752955507,
+                85.6707405545642,
+                22.587898752955507
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.6707405545642,
+                    22.587898752955507
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000109,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 27 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000109&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000109&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000109"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-27T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:48",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 7068,
+                    "severitytext": "Green impact for forestfire in 7068 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                82.58239173984906,
+                19.673438882152286,
+                82.58239173984906,
+                19.673438882152286
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.58239173984906,
+                    19.673438882152286
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000110,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 27 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000110&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000110&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000110"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-27T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:48",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5391,
+                    "severitytext": "Green impact for forestfire in 5391 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                85.50452640639134,
+                21.380095548412292,
+                85.50452640639134,
+                21.380095548412292
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.50452640639134,
+                    21.380095548412292
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000111,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000111&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000111&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000111"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:48",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6185,
+                    "severitytext": "Green impact for forestfire in 6185 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                77.85607577362146,
+                14.135363626098572,
+                77.85607577362146,
+                14.135363626098572
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85607577362146,
+                    14.135363626098572
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000112,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000112&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000112&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000112"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:49",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5879,
+                    "severitytext": "Green impact for forestfire in 5879 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                84.63311194846368,
+                20.13184644656365,
+                84.63311194846368,
+                20.13184644656365
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.63311194846368,
+                    20.13184644656365
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000113,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000113&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000113&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000113"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:49",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5377,
+                    "severitytext": "Green impact for forestfire in 5377 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                84.44320280130376,
+                20.198751530000028,
+                84.44320280130376,
+                20.198751530000028
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.44320280130376,
+                    20.198751530000028
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000114,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000114&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000114&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000114"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:49",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 24499,
+                    "severitytext": "Green impact for forestfire in 24499 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                84.35888535744934,
+                19.292325991111348,
+                84.35888535744934,
+                19.292325991111348
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.35888535744934,
+                    19.292325991111348
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000105,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 02 Mar 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000105&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000105&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000105"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-03-02T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:47",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 9065,
+                    "severitytext": "Green impact for forestfire in 9065 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                79.42059869966897,
+                19.479360848700328,
+                79.42059869966897,
+                19.479360848700328
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42059869966897,
+                    19.479360848700328
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000118,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000118&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000118&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000118"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:50",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 7088,
+                    "severitytext": "Green impact for forestfire in 7088 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                84.8309169970708,
+                21.606085879099513,
+                84.8309169970708,
+                21.606085879099513
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.8309169970708,
+                    21.606085879099513
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000121,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000121&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000121&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000121"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:50",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 9668,
+                    "severitytext": "Green impact for forestfire in 9668 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                84.40133360405112,
+                19.89418329988957,
+                84.40133360405112,
+                19.89418329988957
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.40133360405112,
+                    19.89418329988957
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000122,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 07 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000122&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000122&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000122"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-07T00:00:00",
+                "datemodified": "2021-04-23T07:53:50",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 15691,
+                    "severitytext": "Green impact for forestfire in 15691 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                82.55492315484643,
+                20.32659740228631,
+                82.55492315484643,
+                20.32659740228631
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.55492315484643,
+                    20.32659740228631
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000123,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000123&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000123&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000123"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:50",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 13310,
+                    "severitytext": "Green impact for forestfire in 13310 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                84.247410432243,
+                19.81296200804108,
+                84.247410432243,
+                19.81296200804108
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.247410432243,
+                    19.81296200804108
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000126,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 25 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000126&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000126&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000126"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-25T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:51",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 20349,
+                    "severitytext": "Green impact for forestfire in 20349 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                82.36542679466015,
+                20.428322026099018,
+                82.36542679466015,
+                20.428322026099018
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.36542679466015,
+                    20.428322026099018
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000120,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000120&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000120&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000120"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:50",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6464,
+                    "severitytext": "Green impact for forestfire in 6464 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                84.63128064837059,
+                21.546067844049823,
+                84.63128064837059,
+                21.546067844049823
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.63128064837059,
+                    21.546067844049823
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000106,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 27 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000106&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000106&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000106"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-27T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:48",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6275,
+                    "severitytext": "Green impact for forestfire in 6275 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                87.45736791100488,
+                24.449796441258435,
+                87.45736791100488,
+                24.449796441258435
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.45736791100488,
+                    24.449796441258435
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000115,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000115&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000115&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000115"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:49",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5040,
+                    "severitytext": "Green impact for forestfire in 5040 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                85.48085517576035,
+                21.76850986253654,
+                85.48085517576035,
+                21.76850986253654
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.48085517576035,
+                    21.76850986253654
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000116,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000116&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000116&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000116"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:49",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5122,
+                    "severitytext": "Green impact for forestfire in 5122 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                82.31552368946043,
+                20.021522985605703,
+                82.31552368946043,
+                20.021522985605703
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.31552368946043,
+                    20.021522985605703
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000117,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000117&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000117&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000117"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-26T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:49",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5524,
+                    "severitytext": "Green impact for forestfire in 5524 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                85.24649212484907,
+                21.376840496843972,
+                85.24649212484907,
+                21.376840496843972
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.24649212484907,
+                    21.376840496843972
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000147,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 22 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000147&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000147&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000147"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-22T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:53",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 8127,
+                    "severitytext": "Green impact for forestfire in 8127 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.87813939772967,
+                16.238231393031644,
+                78.87813939772967,
+                16.238231393031644
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.87813939772967,
+                    16.238231393031644
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000139,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 24 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000139&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000139&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000139"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-24T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:53",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5152,
+                    "severitytext": "Green impact for forestfire in 5152 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                86.38724510932315,
+                22.32524639205981,
+                86.38724510932315,
+                22.32524639205981
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.38724510932315,
+                    22.32524639205981
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000131,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 25 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000131&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000131&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000131"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-25T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:51",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 9826,
+                    "severitytext": "Green impact for forestfire in 9826 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                77.64546749550678,
+                14.038543481589167,
+                77.64546749550678,
+                14.038543481589167
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64546749550678,
+                    14.038543481589167
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000132,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 24 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000132&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000132&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000132"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-24T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:51",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5340,
+                    "severitytext": "Green impact for forestfire in 5340 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                86.50870936529395,
+                22.408185761377155,
+                86.50870936529395,
+                22.408185761377155
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.50870936529395,
+                    22.408185761377155
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000133,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 24 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000133&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000133&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000133"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-24T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:52",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6063,
+                    "severitytext": "Green impact for forestfire in 6063 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                86.34126667948969,
+                22.53535372264942,
+                86.34126667948969,
+                22.53535372264942
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.34126667948969,
+                    22.53535372264942
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1000134,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 24 Feb 2021 to: 05 Mar 2021.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/GREEN/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1000134&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1000134&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1000134"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "GREEN",
+                "episodealertscore": 1,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2021-02-24T00:00:00",
+                "todate": "2021-03-05T00:00:00",
+                "datemodified": "2021-04-23T07:53:52",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 13903,
+                    "severitytext": "Green impact for forestfire in 13903 ha",
+                    "severityunit": "ha"
+                }
+            }
+        }
+    ],
+    "bbox": null
+}

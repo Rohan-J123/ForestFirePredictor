@@ -1,0 +1,655 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "bbox": [
+                77.379531930502,
+                22.783431667425518,
+                77.379531930502,
+                22.783431667425518
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.379531930502,
+                    22.783431667425518
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005282,
+                "episodeid": 6,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 12 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005282&episodeid=6",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005282&episodeid=6&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005282"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-04-12T00:00:00",
+                "datemodified": "2022-04-14T07:03:38",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5646,
+                    "severitytext": "Green impact for forestfire in 5646 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                80.44052166411294,
+                24.913114743049498,
+                80.44052166411294,
+                24.913114743049498
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.44052166411294,
+                    24.913114743049498
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005251,
+                "episodeid": 4,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 09 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005251&episodeid=4",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005251&episodeid=4&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005251"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-04-09T00:00:00",
+                "datemodified": "2022-04-10T04:13:00",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6556,
+                    "severitytext": "Green impact for forestfire in 6556 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.4756933848582,
+                22.844381034273738,
+                78.4756933848582,
+                22.844381034273738
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4756933848582,
+                    22.844381034273738
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005324,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 08 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005324&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005324&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005324"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-04-08T00:00:00",
+                "datemodified": "2022-04-09T04:05:35",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 26141,
+                    "severitytext": "Green impact for forestfire in 26141 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                83.39171168784723,
+                24.86521992253929,
+                83.39171168784723,
+                24.86521992253929
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.39171168784723,
+                    24.86521992253929
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005283,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 07 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005283&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005283&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005283"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-04-07T00:00:00",
+                "datemodified": "2022-04-08T03:59:14",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6823,
+                    "severitytext": "Green impact for forestfire in 6823 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.50522871862763,
+                22.86871772165334,
+                78.50522871862763,
+                22.86871772165334
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50522871862763,
+                    22.86871772165334
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005284,
+                "episodeid": 2,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 07 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005284&episodeid=2",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005284&episodeid=2&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005284"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-04-07T00:00:00",
+                "datemodified": "2022-04-08T10:53:50",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 17711,
+                    "severitytext": "Green impact for forestfire in 17711 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.51560975038534,
+                22.86011324514908,
+                78.51560975038534,
+                22.86011324514908
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51560975038534,
+                    22.86011324514908
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005252,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 06 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005252&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005252&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005252"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-04-06T00:00:00",
+                "datemodified": "2022-04-07T03:54:36",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 14543,
+                    "severitytext": "Green impact for forestfire in 14543 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.54992450564012,
+                22.86682930173752,
+                78.54992450564012,
+                22.86682930173752
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54992450564012,
+                    22.86682930173752
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005234,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 05 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005234&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005234&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005234"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-04-05T00:00:00",
+                "datemodified": "2022-04-06T03:55:36",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 7281,
+                    "severitytext": "Green impact for forestfire in 7281 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.56101164848742,
+                22.851702563319567,
+                78.56101164848742,
+                22.851702563319567
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56101164848742,
+                    22.851702563319567
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005195,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 03 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005195&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005195&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005195"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-04-03T00:00:00",
+                "datemodified": "2022-04-05T03:57:44",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5639,
+                    "severitytext": "Green impact for forestfire in 5639 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                77.43220634359932,
+                22.477337688020512,
+                77.43220634359932,
+                22.477337688020512
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.43220634359932,
+                    22.477337688020512
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005060,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 29 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005060&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005060&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005060"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-03-29T00:00:00",
+                "datemodified": "2022-03-30T03:48:42",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 12916,
+                    "severitytext": "Green impact for forestfire in 12916 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                77.24770321276002,
+                22.406295226551144,
+                77.24770321276002,
+                22.406295226551144
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.24770321276002,
+                    22.406295226551144
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005061,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 29 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005061&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005061&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005061"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-03-29T00:00:00",
+                "datemodified": "2022-03-30T03:48:55",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6778,
+                    "severitytext": "Green impact for forestfire in 6778 ha",
+                    "severityunit": "ha"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                83.742559673705,
+                20.332400762034027,
+                83.742559673705,
+                20.332400762034027
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.742559673705,
+                    20.332400762034027
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005026,
+                "episodeid": 2,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Mar 2022 to: 29 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005026&episodeid=2",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005026&episodeid=2&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005026"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-26T00:00:00",
+                "todate": "2022-03-29T00:00:00",
+                "datemodified": "2022-03-30T03:50:02",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5771,
+                    "severitytext": "Green impact for forestfire in 5771 ha",
+                    "severityunit": "ha"
+                }
+            }
+        }
+    ],
+    "bbox": null
+}
