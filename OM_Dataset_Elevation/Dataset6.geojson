@@ -1,0 +1,4149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "bbox": [
+                92.11416595714385,
+                23.961245262568134,
+                92.11416595714385,
+                23.961245262568134
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.11416595714385,
+                    23.961245262568134
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005216,
+                "episodeid": 5,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 04 Apr 2022 to: 09 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005216&episodeid=5",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005216&episodeid=5&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005216"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-04-04T00:00:00",
+                "todate": "2022-04-09T00:00:00",
+                "datemodified": "2022-04-10T03:54:58",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 20785,
+                    "severitytext": "Green impact for forestfire in 20785 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 23.961245262568134,
+                "longitude": 92.11416595714385,
+                "resolvedAddress": "23.961245262568134,92.11416595714385",
+                "address": "23.961245262568134,92.11416595714385",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-04-03",
+                        "datetimeEpoch": 1648924200,
+                        "tempmax": 35.6,
+                        "tempmin": 21.5,
+                        "temp": 26.8,
+                        "feelslikemax": 38.3,
+                        "feelslikemin": 21.5,
+                        "feelslike": 28.0,
+                        "dew": 21.1,
+                        "humidity": 74.6,
+                        "precip": 4.3,
+                        "precipprob": 100.0,
+                        "precipcover": 20.83,
+                        "preciptype": [
+                            "rain"
+                        ],
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 39.6,
+                        "windspeed": 12.6,
+                        "winddir": 210.6,
+                        "pressure": 1010.3,
+                        "cloudcover": 42.5,
+                        "visibility": 15.5,
+                        "solarradiation": 300.1,
+                        "solarenergy": 25.9,
+                        "uvindex": 10.0,
+                        "severerisk": 30.0,
+                        "sunrise": "05:11:56",
+                        "sunriseEpoch": 1648942916,
+                        "sunset": "17:38:13",
+                        "sunsetEpoch": 1648987693,
+                        "moonphase": 0.06,
+                        "conditions": "Rain, Partially cloudy",
+                        "description": "Partly cloudy throughout the day with late afternoon rain.",
+                        "icon": "rain",
+                        "stations": [
+                            "42618099999",
+                            "42726099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-04-04",
+                        "datetimeEpoch": 1649010600,
+                        "tempmax": 34.5,
+                        "tempmin": 22.4,
+                        "temp": 27.8,
+                        "feelslikemax": 35.7,
+                        "feelslikemin": 22.4,
+                        "feelslike": 28.6,
+                        "dew": 20.0,
+                        "humidity": 65.8,
+                        "precip": 0.4,
+                        "precipprob": 100.0,
+                        "precipcover": 8.33,
+                        "preciptype": [
+                            "rain"
+                        ],
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 45.0,
+                        "windspeed": 25.9,
+                        "winddir": 186.1,
+                        "pressure": 1010.9,
+                        "cloudcover": 28.3,
+                        "visibility": 14.6,
+                        "solarradiation": 289.2,
+                        "solarenergy": 25.0,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "05:10:57",
+                        "sunriseEpoch": 1649029257,
+                        "sunset": "17:38:37",
+                        "sunsetEpoch": 1649074117,
+                        "moonphase": 0.1,
+                        "conditions": "Rain, Partially cloudy",
+                        "description": "Partly cloudy throughout the day with rain clearing later.",
+                        "icon": "rain",
+                        "stations": [
+                            "42618099999",
+                            "42726099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "42618099999": {
+                        "distance": 41234.0,
+                        "latitude": 24.317,
+                        "longitude": 92.0,
+                        "useCount": 0,
+                        "id": "42618099999",
+                        "name": "KAILASHAHAR, IN",
+                        "quality": 58,
+                        "contribution": 0.0
+                    },
+                    "42726099999": {
+                        "distance": 53174.0,
+                        "latitude": 23.841,
+                        "longitude": 92.62,
+                        "useCount": 0,
+                        "id": "42726099999",
+                        "name": "LENGPUI, IN",
+                        "quality": 65,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-03-22",
+                    "NDVI": 6005,
+                    "EVI": 3981
+                },
+                {
+                    "date": "2022-04-07",
+                    "NDVI": 4098,
+                    "EVI": 2543
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-03-30",
+                    "LAI": 1,
+                    "FPAR": 5
+                }
+            ],
+            "elevation_data": [
+                165.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                77.93280508351678,
+                22.74677815659031,
+                77.93280508351678,
+                22.74677815659031
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93280508351678,
+                    22.74677815659031
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005222,
+                "episodeid": 4,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 03 Apr 2022 to: 07 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005222&episodeid=4",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005222&episodeid=4&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005222"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-04-03T00:00:00",
+                "todate": "2022-04-07T00:00:00",
+                "datemodified": "2022-04-08T10:48:16",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 18158,
+                    "severitytext": "Green impact for forestfire in 18158 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 22.74677815659031,
+                "longitude": 77.93280508351678,
+                "resolvedAddress": "22.74677815659031,77.93280508351678",
+                "address": "22.74677815659031,77.93280508351678",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-04-02",
+                        "datetimeEpoch": 1648837800,
+                        "tempmax": 41.2,
+                        "tempmin": 25.9,
+                        "temp": 33.5,
+                        "feelslikemax": 38.9,
+                        "feelslikemin": 25.9,
+                        "feelslike": 31.5,
+                        "dew": 1.0,
+                        "humidity": 14.0,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 10.8,
+                        "windspeed": 10.4,
+                        "winddir": 226.5,
+                        "pressure": 1008.1,
+                        "cloudcover": 1.8,
+                        "visibility": 20.9,
+                        "solarradiation": 317.0,
+                        "solarenergy": 27.3,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:10:08",
+                        "sunriseEpoch": 1648860008,
+                        "sunset": "18:34:01",
+                        "sunsetEpoch": 1648904641,
+                        "moonphase": 0.03,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "42672099999",
+                            "42763099999",
+                            "remote",
+                            "42767099999"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-04-03",
+                        "datetimeEpoch": 1648924200,
+                        "tempmax": 40.4,
+                        "tempmin": 25.7,
+                        "temp": 33.8,
+                        "feelslikemax": 38.3,
+                        "feelslikemin": 25.7,
+                        "feelslike": 31.6,
+                        "dew": 1.8,
+                        "humidity": 14.7,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 13.3,
+                        "windspeed": 11.9,
+                        "winddir": 217.0,
+                        "pressure": 1007.9,
+                        "cloudcover": 7.5,
+                        "visibility": 21.0,
+                        "solarradiation": 315.0,
+                        "solarenergy": 27.2,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:09:11",
+                        "sunriseEpoch": 1648946351,
+                        "sunset": "18:34:23",
+                        "sunsetEpoch": 1648991063,
+                        "moonphase": 0.06,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "42672099999",
+                            "42763099999",
+                            "remote",
+                            "42767099999"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "42763099999": {
+                        "distance": 17195.0,
+                        "latitude": 22.767,
+                        "longitude": 77.767,
+                        "useCount": 0,
+                        "id": "42763099999",
+                        "name": "HOSHANGABAD, IN",
+                        "quality": 58,
+                        "contribution": 0.0
+                    },
+                    "42672099999": {
+                        "distance": 64257.0,
+                        "latitude": 23.317,
+                        "longitude": 77.833,
+                        "useCount": 0,
+                        "id": "42672099999",
+                        "name": "RAISEN, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    },
+                    "42767099999": {
+                        "distance": 60146.0,
+                        "latitude": 22.467,
+                        "longitude": 78.433,
+                        "useCount": 0,
+                        "id": "42767099999",
+                        "name": "PACHMARHI, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-03-22",
+                    "NDVI": 3114,
+                    "EVI": 1892
+                },
+                {
+                    "date": "2022-04-07",
+                    "NDVI": 2685,
+                    "EVI": 1418
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-03-30",
+                    "LAI": 5,
+                    "FPAR": 24
+                }
+            ],
+            "elevation_data": [
+                317.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                80.55249680395261,
+                19.19704805468316,
+                80.55249680395261,
+                19.19704805468316
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.55249680395261,
+                    19.19704805468316
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1005246,
+                "episodeid": 2,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 30 Mar 2022 to: 07 Apr 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1005246&episodeid=2",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1005246&episodeid=2&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1005246"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-30T00:00:00",
+                "todate": "2022-04-07T00:00:00",
+                "datemodified": "2022-04-08T03:54:36",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5774,
+                    "severitytext": "Green impact for forestfire in 5774 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 19.19704805468316,
+                "longitude": 80.55249680395261,
+                "resolvedAddress": "19.19704805468316,80.55249680395261",
+                "address": "19.19704805468316,80.55249680395261",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-03-29",
+                        "datetimeEpoch": 1648492200,
+                        "tempmax": 41.1,
+                        "tempmin": 24.1,
+                        "temp": 32.2,
+                        "feelslikemax": 38.6,
+                        "feelslikemin": 24.1,
+                        "feelslike": 30.9,
+                        "dew": 6.1,
+                        "humidity": 22.0,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 15.5,
+                        "windspeed": 10.4,
+                        "winddir": 249.2,
+                        "pressure": 1007.2,
+                        "cloudcover": 17.5,
+                        "visibility": 24.1,
+                        "solarradiation": 317.0,
+                        "solarenergy": 27.3,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:04:30",
+                        "sunriseEpoch": 1648514070,
+                        "sunset": "18:21:02",
+                        "sunsetEpoch": 1648558262,
+                        "moonphase": 0.89,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-30",
+                        "datetimeEpoch": 1648578600,
+                        "tempmax": 43.5,
+                        "tempmin": 24.4,
+                        "temp": 33.1,
+                        "feelslikemax": 43.5,
+                        "feelslikemin": 24.4,
+                        "feelslike": 31.7,
+                        "dew": 5.7,
+                        "humidity": 19.7,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 14.4,
+                        "windspeed": 7.2,
+                        "winddir": 187.4,
+                        "pressure": 1006.7,
+                        "cloudcover": 43.5,
+                        "visibility": 24.1,
+                        "solarradiation": 319.2,
+                        "solarenergy": 27.5,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:03:39",
+                        "sunriseEpoch": 1648600419,
+                        "sunset": "18:21:17",
+                        "sunsetEpoch": 1648644677,
+                        "moonphase": 0.93,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ]
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-03-22",
+                    "NDVI": 4690,
+                    "EVI": 2287
+                },
+                {
+                    "date": "2022-04-07",
+                    "NDVI": 3449,
+                    "EVI": 1442
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-03-26",
+                    "LAI": 9,
+                    "FPAR": 38
+                },
+                {
+                    "date": "2022-03-30",
+                    "LAI": 10,
+                    "FPAR": 40
+                }
+            ],
+            "elevation_data": [
+                224.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.69668523308565,
+                19.289428308879007,
+                78.69668523308565,
+                19.289428308879007
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.69668523308565,
+                    19.289428308879007
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004773,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 02 Mar 2022 to: 15 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004773&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004773&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004773"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-02T00:00:00",
+                "todate": "2022-03-15T00:00:00",
+                "datemodified": "2022-03-16T05:04:42",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 7748,
+                    "severitytext": "Green impact for forestfire in 7748 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 19.289428308879007,
+                "longitude": 78.69668523308565,
+                "resolvedAddress": "19.289428308879007,78.69668523308565",
+                "address": "19.289428308879007,78.69668523308565",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-03-01",
+                        "datetimeEpoch": 1646073000,
+                        "tempmax": 35.3,
+                        "tempmin": 20.5,
+                        "temp": 27.5,
+                        "feelslikemax": 33.3,
+                        "feelslikemin": 20.5,
+                        "feelslike": 26.6,
+                        "dew": 5.8,
+                        "humidity": 26.9,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 12.6,
+                        "windspeed": 10.1,
+                        "winddir": 127.2,
+                        "pressure": 1013.4,
+                        "cloudcover": 6.9,
+                        "visibility": 22.7,
+                        "solarradiation": 263.3,
+                        "solarenergy": 22.8,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:34:50",
+                        "sunriseEpoch": 1646096690,
+                        "sunset": "18:20:39",
+                        "sunsetEpoch": 1646139039,
+                        "moonphase": 0.95,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "43025099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-02",
+                        "datetimeEpoch": 1646159400,
+                        "tempmax": 34.5,
+                        "tempmin": 21.0,
+                        "temp": 28.3,
+                        "feelslikemax": 32.2,
+                        "feelslikemin": 21.0,
+                        "feelslike": 27.4,
+                        "dew": 7.3,
+                        "humidity": 27.8,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 28.1,
+                        "windspeed": 12.2,
+                        "winddir": 120.4,
+                        "pressure": 1012.9,
+                        "cloudcover": 32.1,
+                        "visibility": 22.7,
+                        "solarradiation": 259.6,
+                        "solarenergy": 22.3,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:34:06",
+                        "sunriseEpoch": 1646183046,
+                        "sunset": "18:20:59",
+                        "sunsetEpoch": 1646225459,
+                        "moonphase": 0.0,
+                        "conditions": "Partially cloudy",
+                        "description": "Becoming cloudy in the afternoon.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43025099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43025099999": {
+                        "distance": 43648.0,
+                        "latitude": 19.65,
+                        "longitude": 78.533,
+                        "useCount": 0,
+                        "id": "43025099999",
+                        "name": "ADILABAD, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 4322,
+                    "EVI": 2068
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 3659,
+                    "EVI": 1803
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-26",
+                    "LAI": 7,
+                    "FPAR": 32
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 6,
+                    "FPAR": 22
+                },
+                {
+                    "date": "2022-03-06",
+                    "LAI": 8,
+                    "FPAR": 30
+                }
+            ],
+            "elevation_data": [
+                281.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                92.97441898168589,
+                23.280038437193646,
+                92.97441898168589,
+                23.280038437193646
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.97441898168589,
+                    23.280038437193646
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004759,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 08 Mar 2022 to: 15 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004759&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004759&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004759"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-08T00:00:00",
+                "todate": "2022-03-15T00:00:00",
+                "datemodified": "2022-03-16T04:52:57",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5167,
+                    "severitytext": "Green impact for forestfire in 5167 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 23.280038437193646,
+                "longitude": 92.97441898168589,
+                "resolvedAddress": "23.280038437193646,92.97441898168589",
+                "address": "23.280038437193646,92.97441898168589",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-03-07",
+                        "datetimeEpoch": 1646591400,
+                        "tempmax": 33.1,
+                        "tempmin": 10.3,
+                        "temp": 20.5,
+                        "feelslikemax": 32.0,
+                        "feelslikemin": 10.3,
+                        "feelslike": 20.3,
+                        "dew": 8.0,
+                        "humidity": 46.8,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 22.0,
+                        "windspeed": 11.2,
+                        "winddir": 36.0,
+                        "pressure": 1013.6,
+                        "cloudcover": 31.3,
+                        "visibility": 16.3,
+                        "solarradiation": 261.2,
+                        "solarenergy": 21.6,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "05:34:49",
+                        "sunriseEpoch": 1646611489,
+                        "sunset": "17:23:54",
+                        "sunsetEpoch": 1646654034,
+                        "moonphase": 0.15,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "42726099999",
+                            "remote",
+                            "42727099999"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-08",
+                        "datetimeEpoch": 1646677800,
+                        "tempmax": 32.1,
+                        "tempmin": 13.0,
+                        "temp": 21.6,
+                        "feelslikemax": 32.0,
+                        "feelslikemin": 13.0,
+                        "feelslike": 21.4,
+                        "dew": 10.2,
+                        "humidity": 50.6,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 21.2,
+                        "windspeed": 10.8,
+                        "winddir": 48.5,
+                        "pressure": 1011.9,
+                        "cloudcover": 5.5,
+                        "visibility": 17.0,
+                        "solarradiation": 278.1,
+                        "solarenergy": 24.0,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "05:33:54",
+                        "sunriseEpoch": 1646697834,
+                        "sunset": "17:24:20",
+                        "sunsetEpoch": 1646740460,
+                        "moonphase": 0.18,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "42726099999",
+                            "remote",
+                            "42727099999"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "42726099999": {
+                        "distance": 72139.0,
+                        "latitude": 23.841,
+                        "longitude": 92.62,
+                        "useCount": 0,
+                        "id": "42726099999",
+                        "name": "LENGPUI, IN",
+                        "quality": 65,
+                        "contribution": 0.0
+                    },
+                    "42727099999": {
+                        "distance": 56904.0,
+                        "latitude": 23.733,
+                        "longitude": 92.717,
+                        "useCount": 0,
+                        "id": "42727099999",
+                        "name": "AIJAL, IN",
+                        "quality": 53,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 6035,
+                    "EVI": 3075
+                },
+                {
+                    "date": "2022-03-22",
+                    "NDVI": 6388,
+                    "EVI": 3813
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-03-02",
+                    "LAI": 51,
+                    "FPAR": 89
+                },
+                {
+                    "date": "2022-03-06",
+                    "LAI": 31,
+                    "FPAR": 74
+                },
+                {
+                    "date": "2022-03-10",
+                    "LAI": 52,
+                    "FPAR": 89
+                }
+            ],
+            "elevation_data": [
+                771.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                92.6171817343133,
+                22.91327856843119,
+                92.6171817343133,
+                22.91327856843119
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.6171817343133,
+                    22.91327856843119
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004760,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 08 Mar 2022 to: 15 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004760&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004760&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004760"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-08T00:00:00",
+                "todate": "2022-03-15T00:00:00",
+                "datemodified": "2022-03-16T04:53:25",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5967,
+                    "severitytext": "Green impact for forestfire in 5967 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 22.91327856843119,
+                "longitude": 92.6171817343133,
+                "resolvedAddress": "22.91327856843119,92.6171817343133",
+                "address": "22.91327856843119,92.6171817343133",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-03-07",
+                        "datetimeEpoch": 1646591400,
+                        "tempmax": 35.7,
+                        "tempmin": 12.7,
+                        "temp": 23.3,
+                        "feelslikemax": 33.0,
+                        "feelslikemin": 12.7,
+                        "feelslike": 22.4,
+                        "dew": 2.7,
+                        "humidity": 29.9,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 15.5,
+                        "windspeed": 8.6,
+                        "winddir": 162.1,
+                        "pressure": 1011.3,
+                        "cloudcover": 13.4,
+                        "visibility": 24.1,
+                        "solarradiation": 263.4,
+                        "solarenergy": 21.7,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "05:36:05",
+                        "sunriseEpoch": 1646611565,
+                        "sunset": "17:25:29",
+                        "sunsetEpoch": 1646654129,
+                        "moonphase": 0.15,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-08",
+                        "datetimeEpoch": 1646677800,
+                        "tempmax": 35.4,
+                        "tempmin": 15.5,
+                        "temp": 24.2,
+                        "feelslikemax": 33.0,
+                        "feelslikemin": 15.5,
+                        "feelslike": 23.5,
+                        "dew": 7.1,
+                        "humidity": 37.3,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 15.8,
+                        "windspeed": 9.7,
+                        "winddir": 205.8,
+                        "pressure": 1010.4,
+                        "cloudcover": 0.4,
+                        "visibility": 24.1,
+                        "solarradiation": 276.4,
+                        "solarenergy": 23.8,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "05:35:11",
+                        "sunriseEpoch": 1646697911,
+                        "sunset": "17:25:54",
+                        "sunsetEpoch": 1646740554,
+                        "moonphase": 0.18,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ]
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 7221,
+                    "EVI": 3960
+                },
+                {
+                    "date": "2022-03-22",
+                    "NDVI": 7958,
+                    "EVI": 4463
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-03-02",
+                    "LAI": 61,
+                    "FPAR": 90
+                },
+                {
+                    "date": "2022-03-06",
+                    "LAI": 53,
+                    "FPAR": 87
+                },
+                {
+                    "date": "2022-03-10",
+                    "LAI": 46,
+                    "FPAR": 87
+                }
+            ],
+            "elevation_data": [
+                167.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                80.6139745133125,
+                18.456125780084108,
+                80.6139745133125,
+                18.456125780084108
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6139745133125,
+                    18.456125780084108
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004582,
+                "episodeid": 6,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 03 Mar 2022 to: 14 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004582&episodeid=6",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004582&episodeid=6&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004582"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-03T00:00:00",
+                "todate": "2022-03-14T00:00:00",
+                "datemodified": "2022-03-15T04:59:38",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 11097,
+                    "severitytext": "Green impact for forestfire in 11097 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 18.456125780084108,
+                "longitude": 80.6139745133125,
+                "resolvedAddress": "18.456125780084108,80.6139745133125",
+                "address": "18.456125780084108,80.6139745133125",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-03-02",
+                        "datetimeEpoch": 1646159400,
+                        "tempmax": 35.8,
+                        "tempmin": 19.2,
+                        "temp": 27.3,
+                        "feelslikemax": 33.2,
+                        "feelslikemin": 19.2,
+                        "feelslike": 26.3,
+                        "dew": 6.2,
+                        "humidity": 30.1,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 34.9,
+                        "windspeed": 10.8,
+                        "winddir": 176.0,
+                        "pressure": 1013.2,
+                        "cloudcover": 18.8,
+                        "visibility": 24.1,
+                        "solarradiation": 271.9,
+                        "solarenergy": 23.5,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:25:58",
+                        "sunriseEpoch": 1646182558,
+                        "sunset": "18:13:46",
+                        "sunsetEpoch": 1646225026,
+                        "moonphase": 0.0,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-03",
+                        "datetimeEpoch": 1646245800,
+                        "tempmax": 36.8,
+                        "tempmin": 20.0,
+                        "temp": 27.9,
+                        "feelslikemax": 34.4,
+                        "feelslikemin": 20.0,
+                        "feelslike": 26.9,
+                        "dew": 7.1,
+                        "humidity": 29.1,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 15.8,
+                        "windspeed": 10.8,
+                        "winddir": 181.0,
+                        "pressure": 1012.8,
+                        "cloudcover": 34.1,
+                        "visibility": 24.1,
+                        "solarradiation": 268.9,
+                        "solarenergy": 23.1,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:25:15",
+                        "sunriseEpoch": 1646268915,
+                        "sunset": "18:14:04",
+                        "sunsetEpoch": 1646311444,
+                        "moonphase": 0.02,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ]
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 4098,
+                    "EVI": 2307
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 3674,
+                    "EVI": 1922
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-26",
+                    "LAI": 10,
+                    "FPAR": 36
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 6,
+                    "FPAR": 30
+                },
+                {
+                    "date": "2022-03-06",
+                    "LAI": 8,
+                    "FPAR": 31
+                }
+            ],
+            "elevation_data": [
+                359.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.69781175590988,
+                19.281645257306074,
+                78.69781175590988,
+                19.281645257306074
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.69781175590988,
+                    19.281645257306074
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004735,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 02 Mar 2022 to: 14 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004735&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004735&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004735"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-02T00:00:00",
+                "todate": "2022-03-14T00:00:00",
+                "datemodified": "2022-03-15T04:59:55",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6086,
+                    "severitytext": "Green impact for forestfire in 6086 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 19.281645257306074,
+                "longitude": 78.69781175590988,
+                "resolvedAddress": "19.281645257306074,78.69781175590988",
+                "address": "19.281645257306074,78.69781175590988",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-03-01",
+                        "datetimeEpoch": 1646073000,
+                        "tempmax": 35.3,
+                        "tempmin": 20.5,
+                        "temp": 27.5,
+                        "feelslikemax": 33.3,
+                        "feelslikemin": 20.5,
+                        "feelslike": 26.6,
+                        "dew": 5.8,
+                        "humidity": 26.9,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 12.6,
+                        "windspeed": 10.1,
+                        "winddir": 127.2,
+                        "pressure": 1013.4,
+                        "cloudcover": 6.9,
+                        "visibility": 22.7,
+                        "solarradiation": 263.3,
+                        "solarenergy": 22.8,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:34:49",
+                        "sunriseEpoch": 1646096689,
+                        "sunset": "18:20:39",
+                        "sunsetEpoch": 1646139039,
+                        "moonphase": 0.95,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "43025099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-02",
+                        "datetimeEpoch": 1646159400,
+                        "tempmax": 34.5,
+                        "tempmin": 21.0,
+                        "temp": 28.3,
+                        "feelslikemax": 32.2,
+                        "feelslikemin": 21.0,
+                        "feelslike": 27.4,
+                        "dew": 7.3,
+                        "humidity": 27.8,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 28.1,
+                        "windspeed": 12.2,
+                        "winddir": 120.4,
+                        "pressure": 1012.9,
+                        "cloudcover": 32.1,
+                        "visibility": 22.7,
+                        "solarradiation": 259.6,
+                        "solarenergy": 22.3,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:34:05",
+                        "sunriseEpoch": 1646183045,
+                        "sunset": "18:20:59",
+                        "sunsetEpoch": 1646225459,
+                        "moonphase": 0.0,
+                        "conditions": "Partially cloudy",
+                        "description": "Becoming cloudy in the afternoon.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43025099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43025099999": {
+                        "distance": 44492.0,
+                        "latitude": 19.65,
+                        "longitude": 78.533,
+                        "useCount": 0,
+                        "id": "43025099999",
+                        "name": "ADILABAD, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 4061,
+                    "EVI": 1787
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 3655,
+                    "EVI": 1786
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-26",
+                    "LAI": 7,
+                    "FPAR": 33
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 5,
+                    "FPAR": 24
+                },
+                {
+                    "date": "2022-03-06",
+                    "LAI": 9,
+                    "FPAR": 33
+                }
+            ],
+            "elevation_data": [
+                286.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                92.43178569927609,
+                23.12122135980954,
+                92.43178569927609,
+                23.12122135980954
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.43178569927609,
+                    23.12122135980954
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004721,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India, Bangladesh",
+                "description": "Forest fires in India, Bangladesh",
+                "htmldescription": "Green Forest fires in India, Bangladesh from: 08 Mar 2022 to: 14 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004721&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004721&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004721"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India, Bangladesh",
+                "fromdate": "2022-03-08T00:00:00",
+                "todate": "2022-03-14T00:00:00",
+                "datemodified": "2022-03-15T04:49:37",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    },
+                    {
+                        "iso3": "BGD",
+                        "countryname": "Bangladesh"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 19282,
+                    "severitytext": "Green impact for forestfire in 19282 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 23.12122135980954,
+                "longitude": 92.43178569927609,
+                "resolvedAddress": "23.12122135980954,92.43178569927609",
+                "address": "23.12122135980954,92.43178569927609",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-03-07",
+                        "datetimeEpoch": 1646591400,
+                        "tempmax": 35.7,
+                        "tempmin": 12.7,
+                        "temp": 23.1,
+                        "feelslikemax": 33.0,
+                        "feelslikemin": 12.7,
+                        "feelslike": 22.3,
+                        "dew": 4.3,
+                        "humidity": 35.2,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 15.5,
+                        "windspeed": 8.6,
+                        "winddir": 150.6,
+                        "pressure": 1011.3,
+                        "cloudcover": 15.6,
+                        "visibility": 23.0,
+                        "solarradiation": 263.4,
+                        "solarenergy": 21.7,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "05:36:55",
+                        "sunriseEpoch": 1646611615,
+                        "sunset": "17:26:08",
+                        "sunsetEpoch": 1646654168,
+                        "moonphase": 0.15,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote",
+                            "42727099999"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-08",
+                        "datetimeEpoch": 1646677800,
+                        "tempmax": 35.4,
+                        "tempmin": 15.5,
+                        "temp": 24.1,
+                        "feelslikemax": 33.0,
+                        "feelslikemin": 15.5,
+                        "feelslike": 23.4,
+                        "dew": 8.5,
+                        "humidity": 42.2,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 15.8,
+                        "windspeed": 9.7,
+                        "winddir": 196.3,
+                        "pressure": 1010.4,
+                        "cloudcover": 2.9,
+                        "visibility": 23.8,
+                        "solarradiation": 276.4,
+                        "solarenergy": 23.8,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "05:36:00",
+                        "sunriseEpoch": 1646697960,
+                        "sunset": "17:26:34",
+                        "sunsetEpoch": 1646740594,
+                        "moonphase": 0.18,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote",
+                            "42727099999"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "42727099999": {
+                        "distance": 74091.0,
+                        "latitude": 23.733,
+                        "longitude": 92.717,
+                        "useCount": 0,
+                        "id": "42727099999",
+                        "name": "AIJAL, IN",
+                        "quality": 53,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 7629,
+                    "EVI": 4093
+                },
+                {
+                    "date": "2022-03-22",
+                    "NDVI": 7826,
+                    "EVI": 5830
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-03-02",
+                    "LAI": 60,
+                    "FPAR": 90
+                },
+                {
+                    "date": "2022-03-06",
+                    "LAI": 59,
+                    "FPAR": 90
+                },
+                {
+                    "date": "2022-03-10",
+                    "LAI": 48,
+                    "FPAR": 88
+                }
+            ],
+            "elevation_data": [
+                140.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                92.67368962704657,
+                22.684796226258335,
+                92.67368962704657,
+                22.684796226258335
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.67368962704657,
+                    22.684796226258335
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004723,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 08 Mar 2022 to: 14 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004723&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004723&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004723"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-08T00:00:00",
+                "todate": "2022-03-14T00:00:00",
+                "datemodified": "2022-03-15T04:50:37",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 8531,
+                    "severitytext": "Green impact for forestfire in 8531 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 22.684796226258335,
+                "longitude": 92.67368962704657,
+                "resolvedAddress": "22.684796226258335,92.67368962704657",
+                "address": "22.684796226258335,92.67368962704657",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-03-07",
+                        "datetimeEpoch": 1646591400,
+                        "tempmax": 34.0,
+                        "tempmin": 13.2,
+                        "temp": 22.5,
+                        "feelslikemax": 31.5,
+                        "feelslikemin": 13.2,
+                        "feelslike": 21.8,
+                        "dew": 2.5,
+                        "humidity": 29.4,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 16.6,
+                        "windspeed": 9.0,
+                        "winddir": 107.2,
+                        "pressure": 1011.9,
+                        "cloudcover": 19.6,
+                        "visibility": 24.1,
+                        "solarradiation": 249.3,
+                        "solarenergy": 20.7,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "05:35:46",
+                        "sunriseEpoch": 1646611546,
+                        "sunset": "17:25:20",
+                        "sunsetEpoch": 1646654120,
+                        "moonphase": 0.15,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-08",
+                        "datetimeEpoch": 1646677800,
+                        "tempmax": 33.8,
+                        "tempmin": 15.7,
+                        "temp": 23.5,
+                        "feelslikemax": 31.7,
+                        "feelslikemin": 15.7,
+                        "feelslike": 22.8,
+                        "dew": 7.5,
+                        "humidity": 39.4,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 18.7,
+                        "windspeed": 10.1,
+                        "winddir": 271.2,
+                        "pressure": 1010.8,
+                        "cloudcover": 0.8,
+                        "visibility": 24.1,
+                        "solarradiation": 277.3,
+                        "solarenergy": 23.8,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "05:34:52",
+                        "sunriseEpoch": 1646697892,
+                        "sunset": "17:25:45",
+                        "sunsetEpoch": 1646740545,
+                        "moonphase": 0.18,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ]
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 8017,
+                    "EVI": 5385
+                },
+                {
+                    "date": "2022-03-22",
+                    "NDVI": 6934,
+                    "EVI": 4888
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-03-02",
+                    "LAI": 67,
+                    "FPAR": 91
+                },
+                {
+                    "date": "2022-03-06",
+                    "LAI": 62,
+                    "FPAR": 89
+                },
+                {
+                    "date": "2022-03-10",
+                    "LAI": 59,
+                    "FPAR": 90
+                }
+            ],
+            "elevation_data": [
+                443.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                80.48396322699027,
+                18.657806279711146,
+                80.48396322699027,
+                18.657806279711146
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.48396322699027,
+                    18.657806279711146
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004564,
+                "episodeid": 5,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 22 Feb 2022 to: 13 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004564&episodeid=5",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004564&episodeid=5&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004564"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-02-22T00:00:00",
+                "todate": "2022-03-13T00:00:00",
+                "datemodified": "2022-03-14T05:06:34",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 25297,
+                    "severitytext": "Green impact for forestfire in 25297 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 18.657806279711146,
+                "longitude": 80.48396322699027,
+                "resolvedAddress": "18.657806279711146,80.48396322699027",
+                "address": "18.657806279711146,80.48396322699027",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-21",
+                        "datetimeEpoch": 1645381800,
+                        "tempmax": 34.4,
+                        "tempmin": 17.9,
+                        "temp": 25.6,
+                        "feelslikemax": 31.8,
+                        "feelslikemin": 17.9,
+                        "feelslike": 24.7,
+                        "dew": 5.3,
+                        "humidity": 32.0,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 18.4,
+                        "windspeed": 11.5,
+                        "winddir": 328.9,
+                        "pressure": 1009.1,
+                        "cloudcover": 68.1,
+                        "visibility": 24.1,
+                        "solarradiation": 260.3,
+                        "solarenergy": 22.4,
+                        "uvindex": 9.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:32:40",
+                        "sunriseEpoch": 1645405360,
+                        "sunset": "18:11:01",
+                        "sunsetEpoch": 1645447261,
+                        "moonphase": 0.66,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-02-22",
+                        "datetimeEpoch": 1645468200,
+                        "tempmax": 36.8,
+                        "tempmin": 16.5,
+                        "temp": 25.5,
+                        "feelslikemax": 33.9,
+                        "feelslikemin": 16.5,
+                        "feelslike": 24.6,
+                        "dew": -0.5,
+                        "humidity": 19.8,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 6.8,
+                        "windspeed": 5.0,
+                        "winddir": 61.4,
+                        "pressure": 1011.5,
+                        "cloudcover": 12.1,
+                        "visibility": 24.1,
+                        "solarradiation": 265.6,
+                        "solarenergy": 22.9,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:32:03",
+                        "sunriseEpoch": 1645491723,
+                        "sunset": "18:11:24",
+                        "sunsetEpoch": 1645533684,
+                        "moonphase": 0.7,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ]
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 4843,
+                    "EVI": 2448
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 5184,
+                    "EVI": 2541
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-18",
+                    "LAI": 14,
+                    "FPAR": 53
+                },
+                {
+                    "date": "2022-02-22",
+                    "LAI": 11,
+                    "FPAR": 48
+                },
+                {
+                    "date": "2022-02-26",
+                    "LAI": 11,
+                    "FPAR": 45
+                }
+            ],
+            "elevation_data": [
+                426.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                80.54415318265866,
+                18.59554026254399,
+                80.54415318265866,
+                18.59554026254399
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.54415318265866,
+                    18.59554026254399
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004584,
+                "episodeid": 4,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 02 Mar 2022 to: 12 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004584&episodeid=4",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004584&episodeid=4&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004584"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-02T00:00:00",
+                "todate": "2022-03-12T00:00:00",
+                "datemodified": "2022-03-13T04:54:50",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 10573,
+                    "severitytext": "Green impact for forestfire in 10573 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 18.59554026254399,
+                "longitude": 80.54415318265866,
+                "resolvedAddress": "18.59554026254399,80.54415318265866",
+                "address": "18.59554026254399,80.54415318265866",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-03-01",
+                        "datetimeEpoch": 1646073000,
+                        "tempmax": 36.3,
+                        "tempmin": 19.4,
+                        "temp": 27.3,
+                        "feelslikemax": 33.6,
+                        "feelslikemin": 19.4,
+                        "feelslike": 26.4,
+                        "dew": 4.2,
+                        "humidity": 24.3,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 12.2,
+                        "windspeed": 10.1,
+                        "winddir": 224.6,
+                        "pressure": 1013.3,
+                        "cloudcover": 27.3,
+                        "visibility": 24.1,
+                        "solarradiation": 270.1,
+                        "solarenergy": 23.3,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:27:03",
+                        "sunriseEpoch": 1646096223,
+                        "sunset": "18:13:39",
+                        "sunsetEpoch": 1646138619,
+                        "moonphase": 0.95,
+                        "conditions": "Partially cloudy",
+                        "description": "Clearing in the afternoon.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-02",
+                        "datetimeEpoch": 1646159400,
+                        "tempmax": 35.8,
+                        "tempmin": 19.2,
+                        "temp": 27.3,
+                        "feelslikemax": 33.2,
+                        "feelslikemin": 19.2,
+                        "feelslike": 26.3,
+                        "dew": 6.2,
+                        "humidity": 30.1,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 34.9,
+                        "windspeed": 10.8,
+                        "winddir": 176.0,
+                        "pressure": 1013.2,
+                        "cloudcover": 18.8,
+                        "visibility": 24.1,
+                        "solarradiation": 271.9,
+                        "solarenergy": 23.5,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:26:19",
+                        "sunriseEpoch": 1646182579,
+                        "sunset": "18:13:58",
+                        "sunsetEpoch": 1646225038,
+                        "moonphase": 0.0,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ]
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 4009,
+                    "EVI": 2119
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 4001,
+                    "EVI": 1897
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-26",
+                    "LAI": 11,
+                    "FPAR": 36
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 7,
+                    "FPAR": 33
+                },
+                {
+                    "date": "2022-03-06",
+                    "LAI": 8,
+                    "FPAR": 31
+                }
+            ],
+            "elevation_data": [
+                214.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.35459545271343,
+                13.948209470998128,
+                78.35459545271343,
+                13.948209470998128
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.35459545271343,
+                    13.948209470998128
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004676,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 01 Mar 2022 to: 12 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004676&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004676&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004676"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-03-01T00:00:00",
+                "todate": "2022-03-12T00:00:00",
+                "datemodified": "2022-03-13T04:55:36",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5456,
+                    "severitytext": "Green impact for forestfire in 5456 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 13.948209470998128,
+                "longitude": 78.35459545271343,
+                "resolvedAddress": "13.948209470998128,78.35459545271343",
+                "address": "13.948209470998128,78.35459545271343",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-28",
+                        "datetimeEpoch": 1645986600,
+                        "tempmax": 31.7,
+                        "tempmin": 17.4,
+                        "temp": 24.5,
+                        "feelslikemax": 32.1,
+                        "feelslikemin": 17.4,
+                        "feelslike": 23.9,
+                        "dew": 9.2,
+                        "humidity": 43.9,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 25.9,
+                        "windspeed": 16.9,
+                        "winddir": 111.5,
+                        "pressure": 1013.7,
+                        "cloudcover": 29.6,
+                        "visibility": 22.9,
+                        "solarradiation": 291.6,
+                        "solarenergy": 25.2,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:33:44",
+                        "sunriseEpoch": 1646010224,
+                        "sunset": "18:24:47",
+                        "sunsetEpoch": 1646052887,
+                        "moonphase": 0.91,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43241099999",
+                            "43271099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-03-01",
+                        "datetimeEpoch": 1646073000,
+                        "tempmax": 31.9,
+                        "tempmin": 18.1,
+                        "temp": 25.0,
+                        "feelslikemax": 32.4,
+                        "feelslikemin": 18.1,
+                        "feelslike": 24.5,
+                        "dew": 9.5,
+                        "humidity": 42.6,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 39.2,
+                        "windspeed": 17.3,
+                        "winddir": 104.4,
+                        "pressure": 1013.6,
+                        "cloudcover": 56.8,
+                        "visibility": 22.9,
+                        "solarradiation": 287.4,
+                        "solarenergy": 25.1,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:33:10",
+                        "sunriseEpoch": 1646096590,
+                        "sunset": "18:24:58",
+                        "sunsetEpoch": 1646139298,
+                        "moonphase": 0.95,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43241099999",
+                            "43271099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43241099999": {
+                        "distance": 78845.0,
+                        "latitude": 14.483,
+                        "longitude": 78.833,
+                        "useCount": 0,
+                        "id": "43241099999",
+                        "name": "CUDDAPAH, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    },
+                    "43271099999": {
+                        "distance": 48790.0,
+                        "latitude": 13.533,
+                        "longitude": 78.5,
+                        "useCount": 0,
+                        "id": "43271099999",
+                        "name": "AROGYAVARAM, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 3629,
+                    "EVI": 2034
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 3448,
+                    "EVI": 1981
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-26",
+                    "LAI": 6,
+                    "FPAR": 28
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 5,
+                    "FPAR": 24
+                },
+                {
+                    "date": "2022-03-06",
+                    "LAI": 6,
+                    "FPAR": 29
+                }
+            ],
+            "elevation_data": [
+                477.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.97392958728912,
+                15.796616772557446,
+                78.97392958728912,
+                15.796616772557446
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97392958728912,
+                    15.796616772557446
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004649,
+                "episodeid": 1,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2022 to: 11 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004649&episodeid=1",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004649&episodeid=1&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004649"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-02-26T00:00:00",
+                "todate": "2022-03-11T00:00:00",
+                "datemodified": "2022-03-12T04:55:32",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 11488,
+                    "severitytext": "Green impact for forestfire in 11488 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 15.796616772557446,
+                "longitude": 78.97392958728912,
+                "resolvedAddress": "15.796616772557446,78.97392958728912",
+                "address": "15.796616772557446,78.97392958728912",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-25",
+                        "datetimeEpoch": 1645727400,
+                        "tempmax": 34.2,
+                        "tempmin": 16.7,
+                        "temp": 23.7,
+                        "feelslikemax": 36.0,
+                        "feelslikemin": 16.7,
+                        "feelslike": 23.2,
+                        "dew": 9.1,
+                        "humidity": 44.6,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 20.2,
+                        "windspeed": 16.2,
+                        "winddir": 114.1,
+                        "pressure": 1014.6,
+                        "cloudcover": 23.3,
+                        "visibility": 23.2,
+                        "solarradiation": 280.0,
+                        "solarenergy": 24.1,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:34:09",
+                        "sunriseEpoch": 1645751049,
+                        "sunset": "18:20:28",
+                        "sunsetEpoch": 1645793428,
+                        "moonphase": 0.81,
+                        "conditions": "Partially cloudy",
+                        "description": "Clearing in the afternoon.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43212099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-02-26",
+                        "datetimeEpoch": 1645813800,
+                        "tempmax": 33.1,
+                        "tempmin": 16.4,
+                        "temp": 23.0,
+                        "feelslikemax": 33.7,
+                        "feelslikemin": 16.4,
+                        "feelslike": 22.7,
+                        "dew": 12.4,
+                        "humidity": 56.3,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 25.2,
+                        "windspeed": 19.8,
+                        "winddir": 100.9,
+                        "pressure": 1014.9,
+                        "cloudcover": 37.6,
+                        "visibility": 22.3,
+                        "solarradiation": 275.7,
+                        "solarenergy": 23.6,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:33:34",
+                        "sunriseEpoch": 1645837414,
+                        "sunset": "18:20:44",
+                        "sunsetEpoch": 1645879844,
+                        "moonphase": 0.84,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43212099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43212099999": {
+                        "distance": 64150.0,
+                        "latitude": 15.467,
+                        "longitude": 78.483,
+                        "useCount": 0,
+                        "id": "43212099999",
+                        "name": "NANDYAL, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 4051,
+                    "EVI": 2287
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 3917,
+                    "EVI": 2471
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-22",
+                    "LAI": 7,
+                    "FPAR": 39
+                },
+                {
+                    "date": "2022-02-26",
+                    "LAI": 6,
+                    "FPAR": 33
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 7,
+                    "FPAR": 31
+                }
+            ],
+            "elevation_data": [
+                428.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.89431269797458,
+                16.024743146980388,
+                78.89431269797458,
+                16.024743146980388
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89431269797458,
+                    16.024743146980388
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004567,
+                "episodeid": 4,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 20 Feb 2022 to: 11 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004567&episodeid=4",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004567&episodeid=4&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004567"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-02-20T00:00:00",
+                "todate": "2022-03-11T00:00:00",
+                "datemodified": "2022-03-12T05:04:36",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 12928,
+                    "severitytext": "Green impact for forestfire in 12928 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 16.024743146980388,
+                "longitude": 78.89431269797458,
+                "resolvedAddress": "16.024743146980388,78.89431269797458",
+                "address": "16.024743146980388,78.89431269797458",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-19",
+                        "datetimeEpoch": 1645209000,
+                        "tempmax": 32.1,
+                        "tempmin": 16.6,
+                        "temp": 23.1,
+                        "feelslikemax": 34.1,
+                        "feelslikemin": 16.6,
+                        "feelslike": 22.9,
+                        "dew": 12.8,
+                        "humidity": 57.1,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 18.4,
+                        "windspeed": 16.2,
+                        "winddir": 127.2,
+                        "pressure": 1012.4,
+                        "cloudcover": 38.6,
+                        "visibility": 22.3,
+                        "solarradiation": 264.1,
+                        "solarenergy": 22.8,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:37:58",
+                        "sunriseEpoch": 1645232878,
+                        "sunset": "18:18:50",
+                        "sunsetEpoch": 1645274930,
+                        "moonphase": 0.59,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43212099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-02-20",
+                        "datetimeEpoch": 1645295400,
+                        "tempmax": 34.7,
+                        "tempmin": 18.5,
+                        "temp": 25.5,
+                        "feelslikemax": 35.5,
+                        "feelslikemin": 18.5,
+                        "feelslike": 25.0,
+                        "dew": 8.6,
+                        "humidity": 38.3,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 10.4,
+                        "windspeed": 7.9,
+                        "winddir": 161.6,
+                        "pressure": 1010.6,
+                        "cloudcover": 39.4,
+                        "visibility": 22.3,
+                        "solarradiation": 266.4,
+                        "solarenergy": 23.2,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:37:27",
+                        "sunriseEpoch": 1645319247,
+                        "sunset": "18:19:09",
+                        "sunsetEpoch": 1645361349,
+                        "moonphase": 0.63,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43212099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43212099999": {
+                        "distance": 76146.0,
+                        "latitude": 15.467,
+                        "longitude": 78.483,
+                        "useCount": 0,
+                        "id": "43212099999",
+                        "name": "NANDYAL, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 2603,
+                    "EVI": 1218
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 2764,
+                    "EVI": 1220
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-14",
+                    "LAI": 3,
+                    "FPAR": 18
+                },
+                {
+                    "date": "2022-02-18",
+                    "LAI": 3,
+                    "FPAR": 15
+                },
+                {
+                    "date": "2022-02-22",
+                    "LAI": 4,
+                    "FPAR": 21
+                }
+            ],
+            "elevation_data": [
+                473.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.63622314361209,
+                16.098087397553016,
+                78.63622314361209,
+                16.098087397553016
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63622314361209,
+                    16.098087397553016
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004456,
+                "episodeid": 5,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 23 Feb 2022 to: 11 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004456&episodeid=5",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004456&episodeid=5&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004456"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-02-23T00:00:00",
+                "todate": "2022-03-11T00:00:00",
+                "datemodified": "2022-03-12T04:59:32",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 28570,
+                    "severitytext": "Green impact for forestfire in 28570 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 16.098087397553016,
+                "longitude": 78.63622314361209,
+                "resolvedAddress": "16.098087397553016,78.63622314361209",
+                "address": "16.098087397553016,78.63622314361209",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-22",
+                        "datetimeEpoch": 1645468200,
+                        "tempmax": 35.8,
+                        "tempmin": 19.3,
+                        "temp": 27.3,
+                        "feelslikemax": 35.1,
+                        "feelslikemin": 19.3,
+                        "feelslike": 26.8,
+                        "dew": 13.1,
+                        "humidity": 45.3,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 28.1,
+                        "windspeed": 17.3,
+                        "winddir": 93.5,
+                        "pressure": 1010.8,
+                        "cloudcover": 32.6,
+                        "visibility": 18.0,
+                        "solarradiation": 264.5,
+                        "solarenergy": 22.9,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:37:27",
+                        "sunriseEpoch": 1645492047,
+                        "sunset": "18:20:45",
+                        "sunsetEpoch": 1645534245,
+                        "moonphase": 0.7,
+                        "conditions": "Partially cloudy",
+                        "description": "Clearing in the afternoon.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43212099999",
+                            "remote",
+                            "43213099999"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-02-23",
+                        "datetimeEpoch": 1645554600,
+                        "tempmax": 34.7,
+                        "tempmin": 18.4,
+                        "temp": 25.9,
+                        "feelslikemax": 34.0,
+                        "feelslikemin": 18.4,
+                        "feelslike": 25.6,
+                        "dew": 15.3,
+                        "humidity": 56.8,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 33.5,
+                        "windspeed": 17.6,
+                        "winddir": 106.4,
+                        "pressure": 1013.7,
+                        "cloudcover": 26.7,
+                        "visibility": 18.1,
+                        "solarradiation": 263.1,
+                        "solarenergy": 23.0,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:36:53",
+                        "sunriseEpoch": 1645578413,
+                        "sunset": "18:21:03",
+                        "sunsetEpoch": 1645620663,
+                        "moonphase": 0.73,
+                        "conditions": "Partially cloudy",
+                        "description": "Clearing in the afternoon.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43212099999",
+                            "remote",
+                            "43213099999"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43212099999": {
+                        "distance": 72169.0,
+                        "latitude": 15.467,
+                        "longitude": 78.483,
+                        "useCount": 0,
+                        "id": "43212099999",
+                        "name": "NANDYAL, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    },
+                    "43213099999": {
+                        "distance": 69405.0,
+                        "latitude": 15.8,
+                        "longitude": 78.067,
+                        "useCount": 0,
+                        "id": "43213099999",
+                        "name": "KURNOOL, IN",
+                        "quality": 67,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 3268,
+                    "EVI": 1458
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 2945,
+                    "EVI": 1463
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-18",
+                    "LAI": 6,
+                    "FPAR": 33
+                },
+                {
+                    "date": "2022-02-22",
+                    "LAI": 6,
+                    "FPAR": 33
+                },
+                {
+                    "date": "2022-02-26",
+                    "LAI": 6,
+                    "FPAR": 29
+                }
+            ],
+            "elevation_data": [
+                442.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.70916494854882,
+                16.054330148597813,
+                78.70916494854882,
+                16.054330148597813
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.70916494854882,
+                    16.054330148597813
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004558,
+                "episodeid": 2,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2022 to: 10 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004558&episodeid=2",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004558&episodeid=2&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004558"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-02-26T00:00:00",
+                "todate": "2022-03-10T00:00:00",
+                "datemodified": "2022-03-11T04:57:30",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 12585,
+                    "severitytext": "Green impact for forestfire in 12585 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 16.054330148597813,
+                "longitude": 78.70916494854882,
+                "resolvedAddress": "16.054330148597813,78.70916494854882",
+                "address": "16.054330148597813,78.70916494854882",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-25",
+                        "datetimeEpoch": 1645727400,
+                        "tempmax": 35.4,
+                        "tempmin": 17.5,
+                        "temp": 25.5,
+                        "feelslikemax": 34.1,
+                        "feelslikemin": 17.5,
+                        "feelslike": 24.7,
+                        "dew": 7.2,
+                        "humidity": 36.2,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 35.3,
+                        "windspeed": 17.3,
+                        "winddir": 107.5,
+                        "pressure": 1014.0,
+                        "cloudcover": 14.3,
+                        "visibility": 18.8,
+                        "solarradiation": 279.4,
+                        "solarenergy": 24.0,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:35:23",
+                        "sunriseEpoch": 1645751123,
+                        "sunset": "18:21:21",
+                        "sunsetEpoch": 1645793481,
+                        "moonphase": 0.81,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "43212099999",
+                            "remote",
+                            "43213099999"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-02-26",
+                        "datetimeEpoch": 1645813800,
+                        "tempmax": 33.9,
+                        "tempmin": 15.6,
+                        "temp": 24.5,
+                        "feelslikemax": 33.0,
+                        "feelslikemin": 15.6,
+                        "feelslike": 24.1,
+                        "dew": 11.4,
+                        "humidity": 48.2,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 29.2,
+                        "windspeed": 18.4,
+                        "winddir": 103.1,
+                        "pressure": 1014.4,
+                        "cloudcover": 44.2,
+                        "visibility": 17.9,
+                        "solarradiation": 277.4,
+                        "solarenergy": 23.9,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:34:47",
+                        "sunriseEpoch": 1645837487,
+                        "sunset": "18:21:38",
+                        "sunsetEpoch": 1645879898,
+                        "moonphase": 0.84,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43212099999",
+                            "remote",
+                            "43213099999"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43212099999": {
+                        "distance": 69747.0,
+                        "latitude": 15.467,
+                        "longitude": 78.483,
+                        "useCount": 0,
+                        "id": "43212099999",
+                        "name": "NANDYAL, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    },
+                    "43213099999": {
+                        "distance": 74373.0,
+                        "latitude": 15.8,
+                        "longitude": 78.067,
+                        "useCount": 0,
+                        "id": "43213099999",
+                        "name": "KURNOOL, IN",
+                        "quality": 67,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 3874,
+                    "EVI": 1894
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 2814,
+                    "EVI": 1364
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-22",
+                    "LAI": 6,
+                    "FPAR": 29
+                },
+                {
+                    "date": "2022-02-26",
+                    "LAI": 8,
+                    "FPAR": 32
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 5,
+                    "FPAR": 20
+                }
+            ],
+            "elevation_data": [
+                587.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.6346279934708,
+                14.37370446214431,
+                78.6346279934708,
+                14.37370446214431
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6346279934708,
+                    14.37370446214431
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004430,
+                "episodeid": 4,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 17 Feb 2022 to: 08 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004430&episodeid=4",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004430&episodeid=4&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004430"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-02-17T00:00:00",
+                "todate": "2022-03-08T00:00:00",
+                "datemodified": "2022-03-09T04:58:50",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6926,
+                    "severitytext": "Green impact for forestfire in 6926 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 14.37370446214431,
+                "longitude": 78.6346279934708,
+                "resolvedAddress": "14.37370446214431,78.6346279934708",
+                "address": "14.37370446214431,78.6346279934708",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-16",
+                        "datetimeEpoch": 1644949800,
+                        "tempmax": 31.5,
+                        "tempmin": 17.3,
+                        "temp": 23.9,
+                        "feelslikemax": 34.5,
+                        "feelslikemin": 17.3,
+                        "feelslike": 23.8,
+                        "dew": 14.9,
+                        "humidity": 61.1,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 33.1,
+                        "windspeed": 18.7,
+                        "winddir": 101.6,
+                        "pressure": 1009.4,
+                        "cloudcover": 27.7,
+                        "visibility": 22.7,
+                        "solarradiation": 262.0,
+                        "solarenergy": 22.8,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:38:58",
+                        "sunriseEpoch": 1644973738,
+                        "sunset": "18:20:22",
+                        "sunsetEpoch": 1645015822,
+                        "moonphase": 0.5,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43241099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-02-17",
+                        "datetimeEpoch": 1645036200,
+                        "tempmax": 30.6,
+                        "tempmin": 18.1,
+                        "temp": 23.9,
+                        "feelslikemax": 32.4,
+                        "feelslikemin": 18.1,
+                        "feelslike": 23.8,
+                        "dew": 14.1,
+                        "humidity": 57.5,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 31.3,
+                        "windspeed": 17.6,
+                        "winddir": 108.8,
+                        "pressure": 1008.5,
+                        "cloudcover": 52.2,
+                        "visibility": 22.7,
+                        "solarradiation": 259.9,
+                        "solarenergy": 22.3,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:38:31",
+                        "sunriseEpoch": 1645060111,
+                        "sunset": "18:20:40",
+                        "sunsetEpoch": 1645102240,
+                        "moonphase": 0.52,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43241099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43241099999": {
+                        "distance": 24649.0,
+                        "latitude": 14.483,
+                        "longitude": 78.833,
+                        "useCount": 0,
+                        "id": "43241099999",
+                        "name": "CUDDAPAH, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-02",
+                    "NDVI": 6455,
+                    "EVI": 3523
+                },
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 4816,
+                    "EVI": 2313
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-14",
+                    "LAI": 10,
+                    "FPAR": 44
+                },
+                {
+                    "date": "2022-02-18",
+                    "LAI": 12,
+                    "FPAR": 51
+                },
+                {
+                    "date": "2022-02-22",
+                    "LAI": 10,
+                    "FPAR": 43
+                }
+            ],
+            "elevation_data": [
+                478.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                75.23603850112197,
+                13.27585458107475,
+                75.23603850112197,
+                13.27585458107475
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.23603850112197,
+                    13.27585458107475
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004469,
+                "episodeid": 4,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2022 to: 08 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004469&episodeid=4",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004469&episodeid=4&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004469"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-02-26T00:00:00",
+                "todate": "2022-03-08T00:00:00",
+                "datemodified": "2022-03-10T06:53:23",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 7588,
+                    "severitytext": "Green impact for forestfire in 7588 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 13.27585458107475,
+                "longitude": 75.23603850112197,
+                "resolvedAddress": "13.27585458107475,75.23603850112197",
+                "address": "13.27585458107475,75.23603850112197",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-25",
+                        "datetimeEpoch": 1645727400,
+                        "tempmax": 33.1,
+                        "tempmin": 24.0,
+                        "temp": 27.9,
+                        "feelslikemax": 37.1,
+                        "feelslikemin": 24.0,
+                        "feelslike": 29.8,
+                        "dew": 22.2,
+                        "humidity": 72.7,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 13.0,
+                        "windspeed": 22.3,
+                        "winddir": 307.5,
+                        "pressure": 1011.9,
+                        "cloudcover": 17.9,
+                        "visibility": 5.2,
+                        "solarradiation": 260.4,
+                        "solarenergy": 20.7,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:47:24",
+                        "sunriseEpoch": 1645751844,
+                        "sunset": "18:37:05",
+                        "sunsetEpoch": 1645794425,
+                        "moonphase": 0.81,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "VOML",
+                            "43284099999",
+                            "43285099999"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-02-26",
+                        "datetimeEpoch": 1645813800,
+                        "tempmax": 33.0,
+                        "tempmin": 23.0,
+                        "temp": 27.5,
+                        "feelslikemax": 36.1,
+                        "feelslikemin": 23.0,
+                        "feelslike": 28.9,
+                        "dew": 21.5,
+                        "humidity": 71.9,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 17.3,
+                        "windspeed": 20.5,
+                        "winddir": 195.2,
+                        "pressure": 1011.5,
+                        "cloudcover": 19.1,
+                        "visibility": 5.1,
+                        "solarradiation": 262.6,
+                        "solarenergy": 20.9,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:46:53",
+                        "sunriseEpoch": 1645838213,
+                        "sunset": "18:37:17",
+                        "sunsetEpoch": 1645880837,
+                        "moonphase": 0.84,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "VOML",
+                            "43260099999",
+                            "43284099999",
+                            "43285099999"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "VOML": {
+                        "distance": 52213.0,
+                        "latitude": 12.96,
+                        "longitude": 74.88,
+                        "useCount": 0,
+                        "id": "VOML",
+                        "name": "VOML",
+                        "quality": 50,
+                        "contribution": 0.0
+                    },
+                    "43284099999": {
+                        "distance": 51310.0,
+                        "latitude": 12.961,
+                        "longitude": 74.89,
+                        "useCount": 0,
+                        "id": "43284099999",
+                        "name": "MANGALORE, IN",
+                        "quality": 99,
+                        "contribution": 0.0
+                    },
+                    "43260099999": {
+                        "distance": 55762.0,
+                        "latitude": 13.25,
+                        "longitude": 75.75,
+                        "useCount": 0,
+                        "id": "43260099999",
+                        "name": "CHICKMAGALUR, IN",
+                        "quality": 52,
+                        "contribution": 0.0
+                    },
+                    "43285099999": {
+                        "distance": 56765.0,
+                        "latitude": 12.95,
+                        "longitude": 74.833,
+                        "useCount": 0,
+                        "id": "43285099999",
+                        "name": "MANGALORE PANAMBUR, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 5436,
+                    "EVI": 2691
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 5227,
+                    "EVI": 2314
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-22",
+                    "LAI": 13,
+                    "FPAR": 42
+                },
+                {
+                    "date": "2022-02-26",
+                    "LAI": 14,
+                    "FPAR": 54
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 13,
+                    "FPAR": 43
+                }
+            ],
+            "elevation_data": [
+                1311.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.84981216399416,
+                16.003800442477033,
+                78.84981216399416,
+                16.003800442477033
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.84981216399416,
+                    16.003800442477033
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004468,
+                "episodeid": 3,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 26 Feb 2022 to: 07 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004468&episodeid=3",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004468&episodeid=3&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004468"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-02-26T00:00:00",
+                "todate": "2022-03-07T00:00:00",
+                "datemodified": "2022-03-08T04:51:12",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 6485,
+                    "severitytext": "Green impact for forestfire in 6485 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 16.003800442477033,
+                "longitude": 78.84981216399416,
+                "resolvedAddress": "16.003800442477033,78.84981216399416",
+                "address": "16.003800442477033,78.84981216399416",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-25",
+                        "datetimeEpoch": 1645727400,
+                        "tempmax": 34.2,
+                        "tempmin": 17.5,
+                        "temp": 24.6,
+                        "feelslikemax": 36.0,
+                        "feelslikemin": 17.5,
+                        "feelslike": 24.0,
+                        "dew": 5.5,
+                        "humidity": 33.3,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 35.3,
+                        "windspeed": 17.3,
+                        "winddir": 103.4,
+                        "pressure": 1014.4,
+                        "cloudcover": 14.3,
+                        "visibility": 23.2,
+                        "solarradiation": 279.4,
+                        "solarenergy": 24.0,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:34:48",
+                        "sunriseEpoch": 1645751088,
+                        "sunset": "18:20:49",
+                        "sunsetEpoch": 1645793449,
+                        "moonphase": 0.81,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "43212099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-02-26",
+                        "datetimeEpoch": 1645813800,
+                        "tempmax": 33.1,
+                        "tempmin": 15.6,
+                        "temp": 23.5,
+                        "feelslikemax": 33.7,
+                        "feelslikemin": 15.6,
+                        "feelslike": 23.1,
+                        "dew": 9.5,
+                        "humidity": 45.2,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 29.2,
+                        "windspeed": 18.7,
+                        "winddir": 99.9,
+                        "pressure": 1014.8,
+                        "cloudcover": 44.2,
+                        "visibility": 22.3,
+                        "solarradiation": 277.4,
+                        "solarenergy": 23.9,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:34:12",
+                        "sunriseEpoch": 1645837452,
+                        "sunset": "18:21:06",
+                        "sunsetEpoch": 1645879866,
+                        "moonphase": 0.84,
+                        "conditions": "Partially cloudy",
+                        "description": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43212099999",
+                            "remote"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43212099999": {
+                        "distance": 71533.0,
+                        "latitude": 15.467,
+                        "longitude": 78.483,
+                        "useCount": 0,
+                        "id": "43212099999",
+                        "name": "NANDYAL, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 3413,
+                    "EVI": 1812
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 3117,
+                    "EVI": 976
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-22",
+                    "LAI": 6,
+                    "FPAR": 34
+                },
+                {
+                    "date": "2022-02-26",
+                    "LAI": 8,
+                    "FPAR": 34
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 4,
+                    "FPAR": 21
+                }
+            ],
+            "elevation_data": [
+                446.0
+            ]
+        },
+        {
+            "type": "Feature",
+            "bbox": [
+                78.7106893763789,
+                16.066793536080787,
+                78.7106893763789,
+                16.066793536080787
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.7106893763789,
+                    16.066793536080787
+                ]
+            },
+            "properties": {
+                "eventtype": "WF",
+                "eventid": 1004462,
+                "episodeid": 2,
+                "eventname": "",
+                "glide": "",
+                "name": "Forest fires in India",
+                "description": "Forest fires in India",
+                "htmldescription": "Green Forest fires in India from: 28 Feb 2022 to: 06 Mar 2022.",
+                "icon": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "iconoverall": "https://www.gdacs.org/images/gdacs_icons/maps/Green/WF.png",
+                "url": {
+                    "geometry": "https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1004462&episodeid=2",
+                    "report": "https://www.gdacs.org/report.aspx?eventid=1004462&episodeid=2&eventtype=WF",
+                    "details": "https://www.gdacs.org/gdacsapi/api/events/geteventdata?eventtype=WF&eventid=1004462"
+                },
+                "alertlevel": "Green",
+                "alertscore": 1,
+                "episodealertlevel": "Green",
+                "episodealertscore": 0.5,
+                "istemporary": "false",
+                "iscurrent": "false",
+                "country": "India",
+                "fromdate": "2022-02-28T00:00:00",
+                "todate": "2022-03-06T00:00:00",
+                "datemodified": "2022-03-07T04:48:47",
+                "iso3": "IND",
+                "source": "GWIS",
+                "sourceid": "",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid",
+                "affectedcountries": [
+                    {
+                        "iso3": "IND",
+                        "countryname": "India"
+                    }
+                ],
+                "severitydata": {
+                    "severity": 5261,
+                    "severitytext": "Green impact for forestfire in 5261 ha",
+                    "severityunit": "ha"
+                }
+            },
+            "weather_data": {
+                "queryCost": 2,
+                "latitude": 16.066793536080787,
+                "longitude": 78.7106893763789,
+                "resolvedAddress": "16.066793536080787,78.7106893763789",
+                "address": "16.066793536080787,78.7106893763789",
+                "timezone": "Asia/Kolkata",
+                "tzoffset": 5.5,
+                "days": [
+                    {
+                        "datetime": "2022-02-27",
+                        "datetimeEpoch": 1645900200,
+                        "tempmax": 33.4,
+                        "tempmin": 15.6,
+                        "temp": 24.3,
+                        "feelslikemax": 32.1,
+                        "feelslikemin": 15.6,
+                        "feelslike": 23.8,
+                        "dew": 11.5,
+                        "humidity": 50.8,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 19.4,
+                        "windspeed": 14.8,
+                        "winddir": 100.1,
+                        "pressure": 1014.7,
+                        "cloudcover": 22.2,
+                        "visibility": 18.0,
+                        "solarradiation": 279.0,
+                        "solarenergy": 24.1,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:34:11",
+                        "sunriseEpoch": 1645923851,
+                        "sunset": "18:21:53",
+                        "sunsetEpoch": 1645966313,
+                        "moonphase": 0.88,
+                        "conditions": "Partially cloudy",
+                        "description": "Becoming cloudy in the afternoon.",
+                        "icon": "partly-cloudy-day",
+                        "stations": [
+                            "43212099999",
+                            "remote",
+                            "43213099999"
+                        ],
+                        "source": "obs"
+                    },
+                    {
+                        "datetime": "2022-02-28",
+                        "datetimeEpoch": 1645986600,
+                        "tempmax": 35.1,
+                        "tempmin": 16.1,
+                        "temp": 25.2,
+                        "feelslikemax": 33.3,
+                        "feelslikemin": 16.1,
+                        "feelslike": 24.5,
+                        "dew": 8.8,
+                        "humidity": 41.6,
+                        "precip": 0.0,
+                        "precipprob": 0.0,
+                        "precipcover": 0.0,
+                        "preciptype": null,
+                        "snow": 0.0,
+                        "snowdepth": 0.0,
+                        "windgust": 32.0,
+                        "windspeed": 14.8,
+                        "winddir": 108.2,
+                        "pressure": 1013.8,
+                        "cloudcover": 16.9,
+                        "visibility": 18.1,
+                        "solarradiation": 284.2,
+                        "solarenergy": 24.5,
+                        "uvindex": 10.0,
+                        "severerisk": 10.0,
+                        "sunrise": "06:33:34",
+                        "sunriseEpoch": 1646010214,
+                        "sunset": "18:22:08",
+                        "sunsetEpoch": 1646052728,
+                        "moonphase": 0.91,
+                        "conditions": "Clear",
+                        "description": "Clear conditions throughout the day.",
+                        "icon": "clear-day",
+                        "stations": [
+                            "43212099999",
+                            "remote",
+                            "43213099999"
+                        ],
+                        "source": "obs"
+                    }
+                ],
+                "stations": {
+                    "43212099999": {
+                        "distance": 71105.0,
+                        "latitude": 15.467,
+                        "longitude": 78.483,
+                        "useCount": 0,
+                        "id": "43212099999",
+                        "name": "NANDYAL, IN",
+                        "quality": 54,
+                        "contribution": 0.0
+                    },
+                    "43213099999": {
+                        "distance": 75060.0,
+                        "latitude": 15.8,
+                        "longitude": 78.067,
+                        "useCount": 0,
+                        "id": "43213099999",
+                        "name": "KURNOOL, IN",
+                        "quality": 67,
+                        "contribution": 0.0
+                    }
+                }
+            },
+            "vegetation_indices": [
+                {
+                    "date": "2022-02-18",
+                    "NDVI": 4087,
+                    "EVI": 1974
+                },
+                {
+                    "date": "2022-03-06",
+                    "NDVI": 2775,
+                    "EVI": 1311
+                }
+            ],
+            "vegetation_indices_lai_fpar": [
+                {
+                    "date": "2022-02-22",
+                    "LAI": 7,
+                    "FPAR": 33
+                },
+                {
+                    "date": "2022-02-26",
+                    "LAI": 11,
+                    "FPAR": 38
+                },
+                {
+                    "date": "2022-03-02",
+                    "LAI": 7,
+                    "FPAR": 28
+                }
+            ],
+            "elevation_data": [
+                605.0
+            ]
+        }
+    ]
+}
